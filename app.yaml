@@ -1,0 +1,6 @@
+domains:
+- flask-starter-jepthoniq.wasmer.app
+kind: wasmer.io/App.v0
+name: hh0000ss28-flask-starter
+owner: hh0000ss28
+package: .
